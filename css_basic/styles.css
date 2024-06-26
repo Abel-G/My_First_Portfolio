@@ -11,6 +11,7 @@ main {
 article {
     flex: 2;
     overflow-y: auto;
+    background-color: rgb(245, 243, 243);
 }
 aside {
     flex: 1;
